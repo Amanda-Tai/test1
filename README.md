@@ -1,1 +1,1 @@
-# test1
+# 戴珮珊> 1. 資工大二> 寫不完的作業以及考不完的試> 睡覺、吃甜點、嚇鳥git add -A全部追蹤但會忽略txtgit commit -m "nothing"
